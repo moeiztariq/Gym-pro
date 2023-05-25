@@ -10,7 +10,7 @@ Make sure you have the following installed before running the project:
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `[git clone <repository-url>](https://github.com/moeiztariq/Gym-pro.git)`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 
